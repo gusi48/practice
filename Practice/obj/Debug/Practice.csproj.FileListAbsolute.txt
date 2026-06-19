@@ -1,0 +1,12 @@
+C:\Users\Илья\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Илья\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Илья\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.Form1.resources
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.Views.DocumentChildForm.resources
+C:\Users\Илья\source\repos\Practice\Practice\obj\Debug\Practice.Views.LoginForm.resources
